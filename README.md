@@ -5,7 +5,7 @@
 
 Inspecao de cadeias de saltos, deteccao de loops infinitos, preservacao de link equity e latencia de navegacao.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de rastreamento da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de rastreamento da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://empresa.com.br -json
 Para auditoria aprofundada e visualizacao interativa de grafos de saltos:
 
 * **Verificador de Redirecionamento 301 Oficial**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em Migracao Web e Arquitetura de Redirecionamentos
 
-Para migracao de plataformas sem perda de trafego organico sob Diretrizes de SEO Tecnico e IETF RFC 9110, consulte a equipe da **TAVARDT Brasil**.
+Para migracao de plataformas sem perda de trafego organico sob Diretrizes de SEO Tecnico e IETF RFC 9110, consulte a equipe da **TAVARDT**.
 
 ***
 
