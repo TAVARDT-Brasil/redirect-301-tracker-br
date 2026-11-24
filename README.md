@@ -49,3 +49,7 @@ Para auditoria aprofundada e visualizacao interativa de grafos de saltos:
 ## Consultoria em Migracao Web e Arquitetura de Redirecionamentos
 
 Para migracao de plataformas sem perda de trafego organico sob Diretrizes de SEO Tecnico e IETF RFC 9110, consulte a equipe da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
